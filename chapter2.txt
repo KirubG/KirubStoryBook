@@ -1,1 +1,10 @@
 twice up on a time i was foolished by ......
+
+some git commands
+1. git init - to initialize
+2. git status - to check whether it the file is in staging are or not
+3. git log - tells you you commit files with their commit time
+4. git add  - it add the files to the staging area  when it is "git add . -- it add all the files in the current directory"
+5. git commit -m "message" - it used to commit the files in the staging area
+6. git diff - it differentiate to you the new file and the older version of it
+7. git checkout - it back you to your  last commit version

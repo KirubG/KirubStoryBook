@@ -8,3 +8,11 @@ some git commands
 5. git commit -m "message" - it used to commit the files in the staging area
 6. git diff - it differentiate to you the new file and the older version of it
 7. git checkout - it back you to your  last commit version
+
+to Github
+
+to push to github
+
+8. git remote add origin url - 
+9. git branch -M main
+10. git push -u origin main

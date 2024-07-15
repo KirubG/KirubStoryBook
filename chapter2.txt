@@ -15,7 +15,7 @@ to push to github
 
 8. git remote add origin url - 
 9. git branch -M main
-10. git push -u origin main
+10. git push -u origin main/git push origin main -u
 
 #from mosh hammedani
 Creating Snapshots 
